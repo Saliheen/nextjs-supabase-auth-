@@ -7,4 +7,4 @@ This is a basic example of integrating **Supabase authentication** into a **Next
 - Simple setup with environment variables for Supabase credentials.
 
 Feel free to customize and expand upon this example to fit your needs.
-# nextjs-supabase-auth-
+
