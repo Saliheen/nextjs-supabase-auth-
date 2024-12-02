@@ -8,3 +8,5 @@ This is a basic example of integrating **Supabase authentication** into a **Next
 
 Feel free to customize and expand upon this example to fit your needs.
 
+
+
